@@ -1,6 +1,6 @@
 ## Olá, Eu sou o Adalto Prado
 
-- 👀 Estudo Desenvolvimento Mobile com Flutter
+- 👀 Tive uma breve passagem (de aprendizado) pelo Desenvolvimento Nativo Android | Kotlin, híbrido com Dart | Flutter, e, atualmente estudando Desenvolvimento Web/Mobile com React Native.
 
 - 📫 adaltoprado@proton.me
 
